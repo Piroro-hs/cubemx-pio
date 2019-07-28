@@ -5,4 +5,4 @@
 
 ## License
 
-This project except `/lib/CubeMX` is released into the public domain. For more information see `LICENSE`. For files under `/lib/CubeMX`, please see file headers.
+This project except `lib/CubeMX` is released into the public domain. For more information see `LICENSE`. For files under `lib/CubeMX`, please see each file headers.

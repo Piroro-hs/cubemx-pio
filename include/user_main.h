@@ -1,5 +1,5 @@
-#if !defined(__USER_MAIN_H__)
-#define __USER_MAIN_H__
+#if !defined(USER_MAIN_H_)
+#define USER_MAIN_H_
 
 #if defined(__cplusplus)
 extern "C" {
@@ -13,4 +13,4 @@ void loop();
 }
 #endif // __cplusplus
 
-#endif // __USER_MAIN_H__
+#endif // USER_MAIN_H_
